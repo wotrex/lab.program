@@ -1,2 +1,2 @@
 # lab.program
-Kereksler Maxym 105
+Kerekesler Maxim 105
